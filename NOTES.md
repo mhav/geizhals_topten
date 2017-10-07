@@ -14,6 +14,7 @@ top 10 for the selected section.
 Example for a listing:
 ```
 Geizhals Top 10 in <section name> on <today's date>
+---------------------------------------------------
 Samsung Galaxy S8 G950F schwarz in Handys ohne Vertrag ab € 780,95
 Apple iPhone 8 64GB grau in Handys ohne Vertrag ab € 579,--
 Apple iPhone 7 32GB schwarz in Handys ohne Vertrag ab € 428,50
@@ -25,3 +26,19 @@ Samsung Galaxy A5 A520F schwarz in Handys ohne Vertrag ab € 565,--
 Samsung Galaxy S8+ G955F schwarz in Handys ohne Vertrag ab € 937,32
 Apple MacBook Air 13.3", Core i5-5350U (Z0UU) in Notebooks ab € 937,32
 ```
+
+What is a section?
+It has a name
+It has a link
+It has a top ten list
+
+What is a top ten list?
+It has a list of items
+It is owned by a section
+
+What is a top ten item?
+It has a name
+It has a price
+It has a link
+It is owned by a top ten list
+

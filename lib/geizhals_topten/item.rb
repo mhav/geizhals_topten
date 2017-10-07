@@ -1,0 +1,2 @@
+class GeizhalsTopTen::Item
+end

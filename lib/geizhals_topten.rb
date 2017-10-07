@@ -1,3 +1,7 @@
+require 'nokogiri'
+require 'open-uri'
 require_relative './geizhals_topten/version'
 require_relative './geizhals_topten/cli'
-
+require_relative './geizhals_topten/category'
+require_relative './geizhals_topten/list'
+require_relative './geizhals_topten/item'

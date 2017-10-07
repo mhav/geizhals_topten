@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
 
-require './lib/geizhals_topten'
+require_relative '../lib/geizhals_topten'
 
 GeizhalsTopTen::CLI.new.call
